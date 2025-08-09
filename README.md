@@ -1,3 +1,6 @@
+
+# FinTech News Research Tool
+
 A Streamlit app that:
 
 takes news/article URLs,
